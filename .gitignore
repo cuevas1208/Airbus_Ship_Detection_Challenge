@@ -1,5 +1,7 @@
 input/*
-.ipynb_checkpoints*
+input/
+*input
+*.ipynb_checkpoints
 *.h5
 *.hdf5
 *submission.csv
